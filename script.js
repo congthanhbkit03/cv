@@ -15,6 +15,8 @@ showCV = () => {
     }
 }
 
+showCV();
+
 vn_flag.addEventListener('click', () => {
     lang = 'vi';
     showCV();
